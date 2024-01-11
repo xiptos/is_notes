@@ -1,1 +1,10 @@
 .ipynb_checkpoints/
+*.pth
+cae_nums.png
+latent_space.png
+mlp_img
+nums.png
+nums_vae.png
+vae_img
+data
+.DS_Store
