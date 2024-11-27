@@ -8,3 +8,6 @@ nums_vae.png
 vae_img
 data
 .DS_Store
+MNIST
+FashionMNIST
+davis2017
