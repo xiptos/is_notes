@@ -319,3 +319,5 @@ data
 MNIST
 FashionMNIST
 davis2017
+/.idea/ruff.xml
+sample.pkl
