@@ -324,3 +324,4 @@ sample.pkl
 *.zip
 td/
 videos/
+glove/
