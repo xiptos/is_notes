@@ -1,0 +1,621 @@
+sentence,label,split
+My friends found the plot disappointing,0,train
+The script was boring,0,train
+My friends found the film wonderful,1,train
+"Overall, a great ending",1,test_seen
+The soundtrack was terrible,0,train
+The soundtrack felt beautiful to me,1,train
+The soundtrack was really excellent,1,train
+I thought the performance was disappointing,0,train
+I thought the movie was dull,0,test_seen
+The film was never enjoyable,0,negation
+The movie felt mediocre to me,0,train
+In my opinion the movie was dull,0,train
+In my opinion the performance was marvelous,1,test_unseen
+The ending was really bad,0,train
+What a poor ending,0,train
+"Overall, a mediocre story",0,train
+"Honestly, the performance was impressive",1,train
+The performance felt horrible to me,0,train
+It was a wonderful film,1,train
+My friends found the movie beautiful,1,train
+It was a fantastic plot,1,train
+In my opinion the story was poor,0,train
+What a fantastic ending,1,train
+What a horrendous script,0,test_unseen
+The performance was awful,0,train
+The plot was horrible,0,train
+In my opinion the movie was mediocre,0,train
+The soundtrack felt poor to me,0,train
+The plot was really disappointing,0,train
+In my opinion the soundtrack was mediocre,0,train
+The soundtrack was really dull,0,test_seen
+"Honestly, the movie was horrible",0,test_seen
+"Overall, a dreadful script",0,test_unseen
+"Honestly, the script was superb",1,test_unseen
+My friends found the performance dreadful,0,test_unseen
+The performance felt awful to me,0,train
+"Overall, a mediocre film",0,train
+My friends found the performance awful,0,train
+My friends found the ending disappointing,0,train
+The movie was excellent,1,test_seen
+My friends found the soundtrack terrible,0,train
+What a poor film,0,train
+"Overall, a fantastic story",1,train
+My friends found the movie brilliant,1,train
+The film felt impressive to me,1,train
+"Overall, an awful movie",0,train
+The movie was really weak,0,train
+My friends found the soundtrack good,1,test_seen
+It was an impressive script,1,test_seen
+"Overall, a good soundtrack",1,test_seen
+I thought the plot was horrible,0,train
+It was a mediocre story,0,train
+"Overall, a terrific film",1,test_unseen
+I thought the story was brilliant,1,train
+I thought the story was dull,0,train
+"Honestly, the plot was wonderful",1,train
+The movie was really impressive,1,train
+My friends found the script enjoyable,1,train
+It was a great plot,1,test_seen
+I thought the script was mediocre,0,train
+The movie was anything but dull,1,negation
+"Honestly, the performance was disappointing",0,test_seen
+I thought the story was lousy,0,test_unseen
+In my opinion the soundtrack was magnificent,1,test_unseen
+The soundtrack felt horrendous to me,0,test_unseen
+What a beautiful story,1,train
+I thought the script was enjoyable,1,train
+The soundtrack was really great,1,train
+In my opinion the script was bad,0,train
+The soundtrack was weak,0,train
+My friends found the ending brilliant,1,test_seen
+My friends found the plot awful,0,train
+I thought the script was awful,0,train
+The script felt boring to me,0,train
+"Honestly, the soundtrack was boring",0,train
+The performance was really weak,0,train
+My friends found the plot excellent,1,train
+"Honestly, the film was poor",0,train
+The film felt poor to me,0,train
+"Overall, a terrific performance",1,test_unseen
+I thought the movie was miserable,0,test_unseen
+The script was not amazing in any way,0,negation
+It was a lame script,0,test_unseen
+The film was not bad at all,1,negation
+My friends found the performance tedious,0,test_unseen
+The story was miserable,0,test_unseen
+In my opinion the soundtrack was dull,0,train
+What a remarkable performance,1,test_unseen
+The movie felt fantastic to me,1,test_seen
+The performance was really good,1,train
+"Overall, a poor script",0,train
+"Honestly, the plot was horrible",0,train
+"Honestly, the story was enjoyable",1,train
+The performance was really terrible,0,train
+"Honestly, the plot was lousy",0,test_unseen
+My friends found the ending fantastic,1,train
+In my opinion the soundtrack was bad,0,train
+"Overall, a great performance",1,train
+"Overall, an outstanding ending",1,test_unseen
+"Overall, a wonderful story",1,train
+I thought the movie was boring,0,test_seen
+It was an amazing performance,1,train
+The film was dreadful,0,test_unseen
+"Overall, a beautiful ending",1,train
+I thought the performance was outstanding,1,test_unseen
+What a horrible story,0,train
+The soundtrack was really awful,0,train
+The ending felt marvelous to me,1,test_unseen
+The ending was not wonderful,0,negation
+The soundtrack was not beautiful at all,0,negation
+I thought the story was boring,0,train
+"Honestly, the ending was impressive",1,train
+It was an outstanding script,1,test_unseen
+What an enjoyable performance,1,test_seen
+In my opinion the plot was mediocre,0,train
+My friends found the movie awful,0,train
+It was a disappointing story,0,test_seen
+The film felt boring to me,0,train
+It was a good soundtrack,1,train
+What a brilliant movie,1,train
+I thought the story was wonderful,1,train
+In my opinion the soundtrack was terrible,0,train
+The script felt terrible to me,0,train
+"Overall, an enjoyable story",1,train
+My friends found the movie dull,0,train
+In my opinion the performance was brilliant,1,train
+The story felt terrific to me,1,test_unseen
+The plot felt awful to me,0,train
+It was a beautiful movie,1,train
+In my opinion the performance was enjoyable,1,test_seen
+"Overall, a fantastic script",1,train
+It was a bad movie,0,test_seen
+It was a fantastic ending,1,train
+In my opinion the story was excellent,1,train
+I thought the movie was brilliant,1,train
+In my opinion the script was fantastic,1,test_seen
+The plot was beautiful,1,test_seen
+What a dull ending,0,test_seen
+The soundtrack was bad,0,train
+The plot felt fantastic to me,1,train
+What a lovely film,1,test_unseen
+It was a fantastic film,1,train
+The performance was really mediocre,0,train
+I thought the film was awful,0,train
+The plot was really dull,0,train
+The movie was awful,0,train
+My friends found the performance mediocre,0,train
+It was a brilliant film,1,train
+It was a mediocre movie,0,train
+In my opinion the performance was bad,0,train
+In my opinion the movie was terrible,0,test_seen
+It was a terrific soundtrack,1,test_unseen
+In my opinion the story was enjoyable,1,train
+"Overall, an amazing script",1,train
+The script was brilliant,1,test_seen
+What a wonderful performance,1,test_seen
+The plot was not great at all,0,negation
+It was a terrible soundtrack,0,train
+The story was magnificent,1,test_unseen
+My friends found the plot weak,0,test_seen
+The script was impressive,1,train
+The plot felt horrible to me,0,train
+The script was terrific,1,test_unseen
+What a tedious story,0,test_unseen
+It was a beautiful ending,1,train
+My friends found the film beautiful,1,train
+In my opinion the script was excellent,1,train
+My friends found the movie bad,0,train
+The movie felt brilliant to me,1,train
+The story was really atrocious,0,test_unseen
+I thought the soundtrack was weak,0,train
+The film was amazing,1,train
+It was an excellent ending,1,train
+It was a disappointing plot,0,train
+The performance was terrible,0,train
+It was a terrible film,0,train
+I thought the story was horrendous,0,test_unseen
+"Overall, an impressive plot",1,train
+The ending was really great,1,train
+What a mediocre ending,0,test_seen
+"Honestly, the performance was good",1,train
+The movie was not good,0,negation
+The movie was really disappointing,0,train
+My friends found the performance fantastic,1,train
+My friends found the script brilliant,1,train
+"Honestly, the performance was weak",0,train
+My friends found the ending dreadful,0,test_unseen
+In my opinion the ending was terrible,0,train
+It was a good performance,1,train
+"Honestly, the plot was impressive",1,train
+The script was really awful,0,train
+In my opinion the ending was outstanding,1,test_unseen
+The story was really terrific,1,test_unseen
+The plot was great,1,train
+My friends found the plot enjoyable,1,train
+The film felt brilliant to me,1,train
+The ending was poor,0,train
+The performance was really poor,0,train
+The ending was beautiful,1,train
+In my opinion the film was brilliant,1,train
+The story was really wonderful,1,train
+My friends found the story weak,0,train
+What a brilliant script,1,train
+I thought the film was terrible,0,train
+In my opinion the plot was lovely,1,test_unseen
+What a fantastic film,1,train
+The performance was weak,0,train
+"Honestly, the story was horrible",0,test_seen
+"Overall, an impressive ending",1,train
+The ending felt brilliant to me,1,train
+"Overall, a lousy soundtrack",0,test_unseen
+It was an amazing story,1,train
+It was a terrible story,0,train
+It was an enjoyable ending,1,train
+The performance was really excellent,1,train
+The plot was amazing,1,train
+"Honestly, the script was brilliant",1,train
+The script was really poor,0,test_seen
+The soundtrack was beautiful,1,train
+It was a great script,1,test_seen
+The plot was really enjoyable,1,train
+"Overall, a boring ending",0,train
+"Overall, a good story",1,test_seen
+"Overall, an excellent film",1,train
+The script was terrible,0,test_seen
+It was an impressive performance,1,train
+My friends found the performance bad,0,train
+What a mediocre soundtrack,0,train
+It was a bad film,0,train
+I thought the ending was dull,0,train
+My friends found the performance wonderful,1,test_seen
+What a good ending,1,train
+The soundtrack felt clumsy to me,0,test_unseen
+It was a horrendous film,0,test_unseen
+The script felt mediocre to me,0,train
+It was an excellent plot,1,test_seen
+I thought the soundtrack was beautiful,1,train
+The ending felt outstanding to me,1,test_unseen
+It was a boring story,0,train
+The script was really fantastic,1,train
+In my opinion the film was boring,0,train
+The script felt great to me,1,train
+My friends found the movie excellent,1,train
+What an excellent ending,1,train
+My friends found the story abysmal,0,test_unseen
+It was an abysmal plot,0,test_unseen
+In my opinion the plot was excellent,1,train
+What an excellent film,1,train
+"Overall, a pathetic movie",0,test_unseen
+I thought the movie was great,1,train
+"Overall, a weak script",0,train
+It was an excellent movie,1,train
+It was a beautiful story,1,train
+The script was stunning,1,test_unseen
+The film was anything but fantastic,0,negation
+It was a good movie,1,train
+The soundtrack was far from poor,1,negation
+"Overall, a beautiful film",1,train
+"Overall, a fantastic performance",1,train
+The performance was impressive,1,train
+The story felt horrible to me,0,train
+The story was excellent,1,train
+"Overall, a boring film",0,train
+It was a terrible plot,0,test_seen
+"Overall, a magnificent plot",1,test_unseen
+The ending was really poor,0,train
+I thought the performance was good,1,train
+The film was mediocre,0,train
+It was a disappointing soundtrack,0,train
+It was a splendid movie,1,test_unseen
+It was an enjoyable script,1,test_seen
+"Overall, an enjoyable film",1,train
+I thought the performance was terrible,0,test_seen
+In my opinion the ending was impressive,1,train
+In my opinion the script was brilliant,1,train
+It was an enjoyable film,1,train
+"Overall, a charming performance",1,test_unseen
+The film felt charming to me,1,test_unseen
+In my opinion the performance was fantastic,1,train
+It was a mediocre soundtrack,0,test_seen
+My friends found the script amazing,1,train
+The ending felt boring to me,0,train
+The plot was good,1,train
+"Overall, an amazing performance",1,train
+I thought the script was beautiful,1,train
+I thought the film was enjoyable,1,train
+"Overall, a beautiful script",1,train
+The movie felt charming to me,1,test_unseen
+The plot was really brilliant,1,train
+My friends found the performance good,1,train
+What a beautiful performance,1,train
+In my opinion the ending was amazing,1,test_seen
+"Honestly, the ending was excellent",1,train
+"Honestly, the ending was great",1,train
+I thought the soundtrack was superb,1,test_unseen
+"Overall, a bad movie",0,train
+In my opinion the plot was bad,0,test_seen
+"Overall, a clumsy soundtrack",0,test_unseen
+What a weak script,0,train
+The film felt dull to me,0,train
+"Honestly, the film was disappointing",0,train
+Not a single dull moment in the whole movie,1,negation
+The soundtrack was really wonderful,1,test_seen
+"Honestly, the plot was bad",0,test_seen
+"Honestly, the performance was poor",0,train
+My friends found the story disappointing,0,train
+It was a mediocre ending,0,test_seen
+In my opinion the performance was atrocious,0,test_unseen
+The performance was beautiful,1,train
+"Overall, an awful script",0,train
+What a dull movie,0,train
+In my opinion the soundtrack was clumsy,0,test_unseen
+"Overall, a boring story",0,train
+The ending was not disappointing at all,1,negation
+The plot was lame,0,test_unseen
+The ending felt weak to me,0,train
+In my opinion the soundtrack was great,1,train
+The story was disappointing,0,train
+I thought the ending was brilliant,1,train
+The ending felt disappointing to me,0,train
+I thought the movie was fantastic,1,train
+I thought the ending was horrible,0,train
+"Honestly, the film was mediocre",0,train
+I thought the performance was beautiful,1,test_seen
+It was an awful ending,0,train
+The movie was bad,0,train
+My friends found the soundtrack terrific,1,test_unseen
+The story was mediocre,0,test_seen
+The soundtrack was poor,0,train
+The movie was far from excellent,0,negation
+My friends found the ending great,1,train
+My friends found the script good,1,train
+"Honestly, the script was boring",0,train
+The story was really impressive,1,test_seen
+I thought the movie was wonderful,1,train
+"Overall, a mediocre soundtrack",0,train
+"Overall, a mediocre movie",0,test_seen
+"Overall, a terrible ending",0,train
+The performance was bad,0,test_seen
+"Overall, a poor movie",0,train
+"Overall, a miserable ending",0,test_unseen
+It was a dull performance,0,test_seen
+What an impressive script,1,train
+"Overall, a disappointing script",0,test_seen
+In my opinion the script was impressive,1,train
+I thought the story was disappointing,0,train
+I thought the script was marvelous,1,test_unseen
+In my opinion the script was great,1,test_seen
+"Honestly, the film was great",1,train
+My friends found the film poor,0,train
+The film was wonderful,1,train
+"Honestly, the film was weak",0,train
+"Overall, a dull movie",0,train
+The story was really great,1,train
+"Overall, an amazing soundtrack",1,train
+My friends found the story miserable,0,test_unseen
+In my opinion the plot was weak,0,train
+The film felt wonderful to me,1,train
+The film was really bad,0,test_seen
+The plot was really bad,0,train
+My friends found the ending horrendous,0,test_unseen
+What a wonderful soundtrack,1,train
+My friends found the soundtrack atrocious,0,test_unseen
+In my opinion the movie was impressive,1,train
+The story was really amazing,1,train
+The film felt mediocre to me,0,train
+What an amazing ending,1,test_seen
+"Overall, a weak performance",0,train
+The plot was really horrible,0,train
+The soundtrack felt impressive to me,1,train
+The story was horrible,0,train
+Nothing about the story was impressive,0,negation
+"Overall, a fantastic soundtrack",1,train
+I thought the film was beautiful,1,train
+My friends found the script stunning,1,test_unseen
+In my opinion the soundtrack was horrible,0,train
+In my opinion the ending was horrible,0,train
+"Honestly, the script was dull",0,train
+What an awful performance,0,train
+I thought the story was excellent,1,train
+My friends found the movie pathetic,0,test_unseen
+The movie was really terrible,0,train
+What an abysmal performance,0,test_unseen
+I thought the script was horrendous,0,test_unseen
+"Honestly, the ending was awful",0,test_seen
+I thought the performance was awful,0,train
+My friends found the story good,1,train
+It was a weak ending,0,train
+The film felt fantastic to me,1,train
+What a disappointing story,0,test_seen
+"Honestly, the script was good",1,train
+The plot was boring,0,test_seen
+The soundtrack felt bad to me,0,train
+The film was fantastic,1,train
+What an awful ending,0,train
+What an amazing script,1,test_seen
+What a bad plot,0,train
+"Honestly, the ending was horrible",0,train
+In my opinion the soundtrack was fantastic,1,train
+What a miserable script,0,test_unseen
+The story felt great to me,1,train
+The plot was bad,0,train
+In my opinion the story was beautiful,1,test_seen
+"Honestly, the soundtrack was abysmal",0,test_unseen
+I thought the film was great,1,train
+"Overall, a poor performance",0,train
+The script was remarkable,1,test_unseen
+What a boring film,0,train
+In my opinion the performance was great,1,train
+The soundtrack felt disappointing to me,0,train
+The soundtrack was really horrible,0,train
+I cannot say anything bad about this film,1,negation
+The script was beautiful,1,test_seen
+I thought the soundtrack was charming,1,test_unseen
+"Honestly, the soundtrack was wonderful",1,test_seen
+"Honestly, the performance was excellent",1,train
+In my opinion the script was weak,0,test_seen
+What a miserable film,0,test_unseen
+My friends found the movie wonderful,1,train
+What a brilliant soundtrack,1,train
+It was a lovely movie,1,test_unseen
+I thought the soundtrack was awful,0,train
+I thought the plot was miserable,0,test_unseen
+The ending was really boring,0,train
+The film felt weak to me,0,train
+"Honestly, the movie was lovely",1,test_unseen
+The plot was terrible,0,train
+What an awful movie,0,test_seen
+My friends found the plot horrible,0,train
+My friends found the movie enjoyable,1,test_seen
+The plot was mediocre,0,test_seen
+My friends found the plot great,1,test_seen
+"Overall, a clumsy film",0,test_unseen
+"Honestly, the film was bad",0,test_seen
+"Overall, a disappointing movie",0,train
+In my opinion the plot was horrible,0,train
+In my opinion the plot was wonderful,1,test_seen
+The film was really terrible,0,train
+"Honestly, the plot was abysmal",0,test_unseen
+The movie felt outstanding to me,1,test_unseen
+It was an awful performance,0,train
+I thought the performance was excellent,1,train
+What a terrible soundtrack,0,test_seen
+I thought the ending was boring,0,test_seen
+It was a remarkable plot,1,test_unseen
+In my opinion the film was poor,0,train
+The plot was wonderful,1,train
+In my opinion the ending was wonderful,1,train
+It was a poor movie,0,train
+I thought the story was clumsy,0,test_unseen
+What a bad script,0,train
+The plot was really mediocre,0,train
+The soundtrack felt brilliant to me,1,train
+The movie was really boring,0,train
+"Overall, a wonderful ending",1,train
+I thought the script was boring,0,train
+"Honestly, the plot was excellent",1,train
+The performance felt enjoyable to me,1,test_seen
+"Honestly, the soundtrack was charming",1,test_unseen
+"Honestly, the soundtrack was bad",0,train
+I thought the soundtrack was amazing,1,train
+What a disappointing performance,0,test_seen
+The plot was really terrible,0,train
+The plot was really great,1,train
+The soundtrack was marvelous,1,test_unseen
+The film felt disappointing to me,0,test_seen
+What a beautiful movie,1,train
+"Overall, a lame performance",0,test_unseen
+"Honestly, the ending was splendid",1,test_unseen
+What a brilliant story,1,train
+Nothing about the performance was weak,1,negation
+The soundtrack was wonderful,1,train
+It was a weak film,0,train
+The film was impressive,1,train
+In my opinion the script was horrible,0,train
+In my opinion the performance was superb,1,test_unseen
+The film was terrible,0,train
+It was a disappointing film,0,train
+The plot felt terrible to me,0,test_seen
+I thought the performance was impressive,1,test_seen
+In my opinion the story was awful,0,train
+My friends found the ending excellent,1,test_seen
+"Overall, a beautiful soundtrack",1,train
+The soundtrack felt abysmal to me,0,test_unseen
+The story felt amazing to me,1,test_seen
+The ending was excellent,1,test_seen
+"Overall, a weak soundtrack",0,test_seen
+The script was wonderful,1,train
+It was an impressive ending,1,test_seen
+What an amazing plot,1,train
+I was not bored for a single minute,1,negation
+The story was really weak,0,train
+What an amazing movie,1,train
+"Overall, a brilliant film",1,train
+The performance was really fantastic,1,train
+"Overall, a dull soundtrack",0,test_seen
+I would not call the performance brilliant,0,negation
+The soundtrack was really bad,0,train
+The script was weak,0,train
+What a wonderful script,1,train
+I thought the ending was excellent,1,train
+"Honestly, the movie was beautiful",1,test_seen
+The ending felt tedious to me,0,test_unseen
+"Overall, an awful story",0,train
+I thought the script was lousy,0,test_unseen
+I thought the script was brilliant,1,train
+The ending was really disappointing,0,train
+In my opinion the film was horrendous,0,test_unseen
+My friends found the script horrible,0,train
+"Honestly, the film was good",1,train
+In my opinion the film was bad,0,train
+My friends found the plot impressive,1,train
+"Overall, a dull film",0,train
+It was a great story,1,test_seen
+"Honestly, the script was enjoyable",1,train
+"Overall, a brilliant script",1,train
+In my opinion the performance was impressive,1,train
+The story was marvelous,1,test_unseen
+What an enjoyable ending,1,train
+"Overall, a beautiful movie",1,test_seen
+My friends found the soundtrack outstanding,1,test_unseen
+The script was not mediocre in any way,1,negation
+"Honestly, the performance was amazing",1,test_seen
+In my opinion the script was dull,0,train
+The ending was really terrible,0,train
+The performance was really stunning,1,test_unseen
+The script felt enjoyable to me,1,test_seen
+What a disappointing plot,0,train
+What a good soundtrack,1,train
+What a weak ending,0,test_seen
+"Overall, a brilliant movie",1,train
+The story felt impressive to me,1,test_seen
+"Honestly, the story was good",1,train
+The script was dull,0,train
+What a horrendous story,0,test_unseen
+I thought the performance was great,1,train
+My friends found the ending amazing,1,train
+It was a dull film,0,train
+In my opinion the film was terrible,0,train
+"Overall, a mediocre performance",0,train
+"Honestly, the performance was boring",0,train
+"Honestly, the movie was great",1,test_seen
+The story felt good to me,1,train
+"Honestly, the movie was awful",0,train
+It was a dull soundtrack,0,test_seen
+The film was great,1,train
+I thought the ending was fantastic,1,train
+The soundtrack felt amazing to me,1,train
+The plot was disappointing,0,train
+What an amazing story,1,train
+My friends found the script weak,0,train
+I thought the plot was bad,0,train
+"Overall, a wonderful script",1,train
+"Honestly, the performance was awful",0,train
+What an awful plot,0,test_seen
+"Honestly, the film was lovely",1,test_unseen
+The script felt dull to me,0,train
+It was a poor soundtrack,0,test_seen
+The soundtrack was boring,0,train
+The performance felt good to me,1,train
+What a fantastic story,1,train
+I thought the soundtrack was excellent,1,train
+"Overall, a horrible movie",0,train
+The plot felt weak to me,0,train
+My friends found the movie lovely,1,test_unseen
+I thought the story was weak,0,test_seen
+I thought the soundtrack was good,1,train
+"Honestly, the soundtrack was good",1,train
+The movie was clumsy,0,test_unseen
+The ending felt wonderful to me,1,train
+My friends found the movie mediocre,0,train
+My friends found the story horrible,0,test_seen
+The plot felt excellent to me,1,train
+What an impressive movie,1,train
+The film was really disappointing,0,test_seen
+It was a boring performance,0,train
+"Overall, a terrible story",0,train
+In my opinion the script was poor,0,test_seen
+The script was disappointing,0,train
+My friends found the soundtrack mediocre,0,train
+The soundtrack was really enjoyable,1,test_seen
+What a horrendous performance,0,test_unseen
+The plot was charming,1,test_unseen
+In my opinion the ending was brilliant,1,test_seen
+The film was awful,0,train
+The story was great,1,train
+The ending was pathetic,0,test_unseen
+The ending felt bad to me,0,train
+What a mediocre film,0,train
+The film was abysmal,0,test_unseen
+In my opinion the performance was disappointing,0,train
+"Overall, an amazing film",1,train
+"Overall, an excellent soundtrack",1,train
+I thought the soundtrack was disappointing,0,test_seen
+"Honestly, the soundtrack was excellent",1,train
+The plot felt mediocre to me,0,train
+The plot felt impressive to me,1,test_seen
+"Overall, an enjoyable script",1,train
+The script felt excellent to me,1,train
+I thought the film was terrific,1,test_unseen
+The story was good,1,train
+In my opinion the performance was poor,0,train
+In my opinion the performance was amazing,1,train
+I thought the film was brilliant,1,test_seen
+"Honestly, the plot was enjoyable",1,train
+What a charming movie,1,test_unseen
+The ending was stunning,1,test_unseen
+My friends found the script impressive,1,train
+It was a fantastic soundtrack,1,train
+The story was weak,0,test_seen
+The story was stunning,1,test_unseen
+The movie felt great to me,1,test_seen
+It was a horrible story,0,train
+"Honestly, the film was pathetic",0,test_unseen
+The plot was really outstanding,1,test_unseen
+The story was never boring,1,negation
+In my opinion the performance was good,1,train
+The plot was really beautiful,1,train
+"Overall, a disappointing ending",0,train
+The film was really good,1,train
